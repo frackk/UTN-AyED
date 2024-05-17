@@ -1,10 +1,10 @@
 #include <iostream>
+// #include "Funciones/strings.hpp"
+
 using namespace std;
 
 int main () {
 
-    cout << "test2" << endl;
-
-    system("pause");
-    return 0;
+    // s = "jhon|george|paul|ringo";
+    
 }
